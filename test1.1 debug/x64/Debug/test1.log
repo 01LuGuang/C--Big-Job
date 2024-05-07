@@ -1,0 +1,11 @@
+﻿  BookManagement.cpp
+  User.cpp
+C:\Users\Ray\Desktop\c++大作业\test1.0\User.cpp(94,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Ray\Desktop\c++大作业\test1.0\User.cpp(231,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Ray\Desktop\c++大作业\test1.0\User.cpp(341,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Ray\Desktop\c++大作业\test1.0\User.cpp(403,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Ray\Desktop\c++大作业\test1.0\User.cpp(602,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Ray\Desktop\c++大作业\test1.0\User.cpp(700,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  test1.vcxproj -> C:\Users\Ray\Desktop\c++大作业\test1.0\x64\Debug\test1.exe

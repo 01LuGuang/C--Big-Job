@@ -1,0 +1,2 @@
+C:\Users\Ray\Desktop\c++大作业\test1\x64\Debug\test1.exe
+C:\Users\Ray\Desktop\c++大作业\test1.0\x64\Debug\test1.exe
